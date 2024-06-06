@@ -1,0 +1,201 @@
+lyte-connect-item{
+	display: block;
+	border: 1px solid;
+	position: absolute;
+	--contextualRatio: calc( var(--contextualLevel) / 100 );
+	width: calc( 100px * var( --contextualRatio ) );
+	z-index: 2;
+	background: white;
+	overflow: hidden;
+}
+
+lyte-connect{
+	position: relative;
+	display: block;
+	--contextualLevel: 100;
+}
+
+lyte-connection-title, lyte-connection-content,lyte-connection-footer, lyte-connection-module{
+	display: block;
+}
+
+.lyteConnectionSelected{
+	z-index: 10;
+	border-color: blue;
+}
+
+.lyteConnectionPath{
+	stroke: blue;
+	stroke-width: 2;
+	fill: none;
+}
+
+.lyteConnectionFakePath{
+	stroke: transparent;
+	stroke-width:5;
+	fill: none;
+}
+
+.lyteConnectionFakeContainer, .lyteConnectionContainer{
+	pointer-events: none;
+	/*will-change: transform;*/
+}
+
+.lyteConnectionContainer path{
+	pointer-events: auto;
+	/*will-change: d*/
+}
+
+.lyteConnectionElement{
+	position: relative;
+	width: 100vw;
+    height: 100vh;
+    /*overflow: auto;*/
+    overflow: hidden;
+}
+
+.lyteConnectionMarker{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.lyteConnectSelection{
+	z-index: 3;
+}
+
+.lyteConnectWrapper{
+	overflow: visible;
+	height: 100%;
+	width: 100%;
+}
+
+.lyteConnectOverlay{
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	border: 2px solid red;
+	box-sizing: border-box;
+}
+
+.lytePreviewElement{
+	position: absolute;
+	border: 1px solid black;
+}
+
+.lyteConnectPreview{
+	background: white;
+}
+
+.lytePreviewForeignObject{
+	overflow: visible;
+}
+
+.lyteContextualAnimation lyte-connect-item{
+	transition-property: width, height, left, top;
+	transition-duration: 200ms;
+	will-change: left,top,font-size,width,height;
+}
+
+.lyteContextualAnimation lyte-connection-content{
+	transition-property: max-height, height;
+	will-change: max-height,height;
+	transition-duration: 200ms;
+	pointer-events: none;
+}
+
+.lyteConnectSelectionElement{
+	position: absolute;
+	background: #00c4ff;
+	opacity: 0.5;
+}
+
+.lyteConnectContextualLevel75{
+	font-size: 12px;
+}
+
+.lyteConnectContextualLevel75 lyte-connect-item{
+	width: 75px;
+}
+
+.lyteConnectContextualLevel75 lyte-connection-content{
+	max-height: 150px;
+}
+
+.lyteConnectContextualLevel50{
+	font-size: 8px;
+}
+
+.lyteConnectContextualLevel50 lyte-connect-item{
+	width: 50px;
+}
+
+.lyteConnectContextualLevel50 lyte-connection-content{
+	max-height: 100px;
+}
+
+.lyteConnectContextualLevel25{
+	font-size: 6px;
+}
+
+.lyteConnectContextualLevel25 lyte-connect-item{
+	width: 40px;
+}
+
+.lyteConnectContextualLevel25 lyte-connection-content{
+	max-height: 80px;
+}
+
+.lyteConnectContextualLevel0 lyte-connect-item{
+	width: 20px;
+	height: 20px;
+	overflow: hidden;
+}
+
+.lyteConnectContextualLevel0 lyte-connection-content{
+	display: none;
+}
+
+.lyteConnectGroupShape {
+	background: transparent;
+}
+
+.lyteConnectionHover .lyteConnectionPath{
+	stroke: green;
+}
+
+lyte-connect-item.lyteConnectionHover{
+	border-color: green;
+}
+
+lyte-connect-item.lyteShapeHover{
+	border-color: yellow;
+}
+
+.lyteShapeHover .lyteConnectionPath{
+	stroke: yellow;
+}
+
+.lyteConnectPreview{
+	width: 200px; 
+	height: 200px; 
+	bottom: 100vh;
+	position: absolute;
+	border: 1px solid black;
+	transform: translate(-200%,-100%);
+	left: 100vw;
+	top: 100vh;
+}
+
+.lyteConnectHiddenElem{
+	display: none !important;
+}
+
+.lyteSmartGuides{
+	position: absolute;
+	border: 1px dotted black;
+	box-sizing: border-box;
+	z-index: 100;
+}

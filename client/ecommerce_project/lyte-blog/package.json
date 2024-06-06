@@ -1,0 +1,20 @@
+{
+ "name": "lyte-blog",
+ "version": "1.0.0",
+ "description": "Description for lyte-blog goes here",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+  "@zoho/lyte": "3.1.0",
+  "@zoho/lyte-dom": "2.0.12",
+  "@zoho/lyte-ui-component": "3.36.0",
+  "axios": "^1.7.2"
+ },
+ "addons": [
+  "lyte-ui-component",
+  "@zoho/lyte-ui-component"
+ ]
+}

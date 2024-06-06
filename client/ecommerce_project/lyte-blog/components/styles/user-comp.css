@@ -1,0 +1,39 @@
+.auth-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 20px 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.login-form {
+    display: flex; /* Enable flexbox for the login form */
+    align-items: center; /* Align items vertically */
+}
+
+ .login-form lyte-button {
+    margin-left: 10px; /* Adjust spacing between the buttons */
+}
+
+  /* .login-form, .signup-form {
+    width: 45%;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  label {
+    margin-bottom: 5px;
+  }
+
+  lyte-input {
+    margin-bottom: 15px;
+  }
+
+  lyte-button {
+    align-self: flex-start;
+  } */ */

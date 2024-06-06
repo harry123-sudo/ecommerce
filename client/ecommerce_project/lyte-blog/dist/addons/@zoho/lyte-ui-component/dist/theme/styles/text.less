@@ -1,0 +1,21 @@
+@import "../themes/default/ui-elements/text/text.variables.less";
+
+/* Loading theme in configuration */
+@import "../config.less";
+
+@import (optional) "../themes/@{lyteText}/ui-elements/text/text.variables.less";
+
+/* rtl files loading */
+
+@import (multiple,optional) "../themes/default/global/@{direction}.less";
+
+@import (multiple,optional) "../themes/@{lyteText}/global/@{direction}.less";
+
+lyte-text {
+    .lyteTextMixin();
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: @max-w;
+    display: inline-block;
+}

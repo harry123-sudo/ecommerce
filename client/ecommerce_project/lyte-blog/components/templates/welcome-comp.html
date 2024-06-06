@@ -1,0 +1,65 @@
+<template tag-name='welcome-comp'>
+
+		<div class="welcome-container">
+			<user-comp></user-comp>
+		</div>
+
+		<h1> Product </h1>
+	<div>
+ 			<lyte-button lt-prop-appearance="primary" onclick="{{action('openModal', event)}}" mousedown="{{action('check', event)}}" final-style="" final-class="lyte-button lytePrimaryBtn">
+			  <template is="registerYield" yield-name="text">
+				Add Product
+			  </template>
+			</lyte-button>
+			<lyte-modal lt-prop-show={{showModal}}> 
+				<template is="registerYield" yield-name="modal">
+				  <lyte-modal-header> Add Product Details </lyte-modal-header>
+				  <lyte-modal-content>
+					<table cellpadding="0" cellspacing="0" class="w100per modalTable">
+					  <tbody>
+						<tr>
+							<td class="pB10 pR30 alignRight"> Product ID </td>
+							<td class="pB10 mymodalinput">
+							  <lyte-input lt-prop-type="text" lt-prop-value = "{{lbind(prdId)}}" lt-prop-placeholder="" lt-prop-appearance="box"></lyte-input>
+							</td>
+						  </tr>
+						<tr>
+						  <td class="pB10 pR30 alignRight"> Product name </td>
+						  <td class="pB10 mymodalinput">
+							<lyte-input lt-prop-type="text" lt-prop-value = "{{lbind(productName)}}" lt-prop-placeholder="" lt-prop-appearance="box"></lyte-input>
+						  </td>
+						</tr>
+						<tr>
+						  <td class="pR30 alignRight vat pT7"> Price </td>
+						  <td class="mymodaltextarea">
+							<lyte-input lt-prop-type="textarea" lt-prop-value = "{{lbind(productPrice)}}" lt-prop-appearance="box" lt-prop-id="lyteinput" lt-prop-rows="2" lt-prop-cols="60" lt-prop-placeholder="Description" lt-prop-text-area-resize='{"horizontal" : false, "vertical" : true }'></lyte-input>
+						  </td>
+						</tr>
+						<tr>
+							<td class="pR30 alignRight vat pT7"> product image Url </td>
+							<td class="mymodaltextarea">
+							  <lyte-input lt-prop-type="textarea" lt-prop-value = "{{lbind(prdUrl)}}" lt-prop-appearance="box" lt-prop-id="lyteinput" lt-prop-rows="2" lt-prop-cols="60" lt-prop-placeholder="Description" lt-prop-text-area-resize='{"horizontal" : false, "vertical" : true }'></lyte-input>
+							</td>
+						  </tr>
+					  </tbody>
+					</table>
+				  </lyte-modal-content>
+				  <lyte-modal-footer class="right">
+					<lyte-button lt-prop-appearance="primary" onclick='{{action("create")}}'>
+					  <template is="registerYield" yield-name="text"> Create </template>
+					</lyte-button>
+					<lyte-button onclick='{{action("closeModal")}}'>
+					  <template is="registerYield" yield-name="text"> Cancel </template>
+					</lyte-button>
+				  </lyte-modal-footer>
+				</template>
+			  </lyte-modal> 		
+	</div>
+		
+	<div class='prd-datas'>
+		<div class='prd-data' lyte-for="{{allprds}} as product index">
+
+			<products-comp prd={{product}}></products-comp>
+		</div>
+	</div>
+</template>

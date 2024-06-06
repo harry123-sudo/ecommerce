@@ -1,0 +1,63 @@
+<template tag-name="user-comp">
+    <div class="auth-container">
+        <div class="login-form" id="loginForm">
+    
+            <lyte-button lt-prop-appearance="primary" onclick="{{action('showLoginForm')}}">
+                <template is="registerYield" yield-name="text">
+                    Login
+                </template>
+            </lyte-button>
+            <lyte-button lt-prop-appearance="primary" onclick="{{action('showSignupForm')}}">
+                <template is="registerYield" yield-name="text">
+                    SignUp
+                </template>
+            </lyte-button>
+        </div>
+    </div>
+</template>
+
+<!-- <template tag-name="user-comp">
+
+
+        <div class="auth-container">
+          <div class="login-form">
+            <h2>Login</h2>
+            <lyte-button lt-prop-appearance="primary" onclick="{{action('openModal', event)}}" mousedown="{{action('check', event)}}" final-style="" final-class="lyte-button lytePrimaryBtn">
+                <template is="registerYield" yield-name="text">
+                  Login
+                </template>
+              </lyte-button>
+              <lyte-button lt-prop-appearance="primary" onclick="{{action('openModal', event)}}" mousedown="{{action('check', event)}}" final-style="" final-class="lyte-button lytePrimaryBtn">
+                <template is="registerYield" yield-name="text">
+                  SignUp
+                </template>
+              </lyte-button>
+            <form onsubmit="event.preventDefault(); action('handleLogin')">
+              <label for="login-email">Email:</label>
+              <lyte-input type="email" id="login-email" lt-prop-value={{loginEmail}}></lyte-input>
+              
+              <label for="login-password">Password:</label>
+              <lyte-input type="password" id="login-password" lt-prop-value={{loginPassword}}></lyte-input>
+              
+              <lyte-button type="submit" lt-prop-appearance="primary">Login</lyte-button>
+            </form>
+          </div>
+      
+          <div class="signup-form">
+            <h2>Signup</h2>
+            <form onsubmit="event.preventDefault(); action('handleSignup')">
+              <label for="signup-name">UserName:</label>
+              <lyte-input type="text" id="signup-name" lt-prop-value={{signupName}}></lyte-input>
+      
+              <label for="signup-email">Email:</label>
+              <lyte-input type="email" id="signup-email" lt-prop-value={{signupEmail}}></lyte-input>
+      
+              <label for="signup-password">Password:</label>
+              <lyte-input type="password" id="signup-password" lt-prop-value={{signupPassword}}></lyte-input>
+      
+              <lyte-button type="submit" lt-prop-appearance="primary">Signup</lyte-button>
+            </form>
+          </div>
+        </div>
+      
+</template> -->

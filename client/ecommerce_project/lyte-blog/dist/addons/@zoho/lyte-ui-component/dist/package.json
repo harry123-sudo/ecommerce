@@ -1,0 +1,40 @@
+{
+  "name": "@zoho/lyte-ui-component",
+  "version": "3.36.0",
+  "description": "",
+  "scripts": {
+    "uncapVersions": "node build/modifyDependencyVersions.js uncap",
+    "resetVersions": "node build/modifyDependencyVersions.js reset",
+    "prepublishOnly": "node build/checkForAddonEntry.js && npm run uncapVersions && cd uicomp-json-compiler && node data-compiler.js --prepublish",
+    "postinstall": "node build/runscript.js $INIT_CWD",
+    "postpublish": "rm ui-comp-property.json && npm run resetVersions",
+    "lint": "node build/lyte_env.js",
+    "addEntry": "node build/lintRules/addEntryForRules.js",
+    "fetchRules": "sh build/lintRules/fetchLintRules.sh",
+    "eslint": "sh build/lintRules/runLint.sh",
+    "commit": "git-cz",
+    "precommit": "npm run fetchRules",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "^3.2.0",
+    "eslint": "^5.10.0",
+    "espree": "^4.0.0",
+    "glob": "^7.1.6",
+    "html2json": "^1.0.2",
+    "husky": "4.3.8",
+    "jsdoc-lyte-plugin": "1.0.1",
+    "lyte-component-comment-parser": "1.0.4",
+    "@zoho/lytmus": "1.2.0",
+    "mime-types": "^2.1.21",
+    "standard-version": "^8.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "addons": []
+}

@@ -1,0 +1,4562 @@
+Building components ....
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+addon building initated for/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/node_modules/@zoho/lyte-ui-component/build/build.js
+ build file exists on addons building
+production modeundefined
+[Time] : copyAppDir =>0.195 s
+[Time] => components completed : 0.196 s
+========== Components compiled ==========
+[Time] => 0.011 s
+================= _super call of model completed =======================
+Building time of addons :8.316 s
+LiveServer running in 60031
+Fetching the free port
+Browser launching
+Browser launched
+page opened
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 22.392 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 23.61 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 30.889 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 35.796 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 40.52 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 50.718 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 63.518 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 71.099 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 91.771 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Failed] =>components/templates/welcome-comp.html
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Failed] =>components/templates/welcome-comp.html
+========== Components compiled ==========
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.009 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+launching the chromium with the port 60032
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+request on end called
+Time taken for end call back be 1.105s
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Failed] =>components/templates/welcome-comp.html
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 2.79s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 4.013s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 22.182s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Failed] =>components/templates/signup-comp.html
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1575.834s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1658.027s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1661.798s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1666.512s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1668.594s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1669.888s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1676.353s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1679.614s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1683.36s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1688.323s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1692.373s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/signup-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 1696.027s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 3831.325 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 3833.493 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 3941.112 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9157.85 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9161.02 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9165.744 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9167.68 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9169.675 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9171.359 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7535.785s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7539.439s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7542.328s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7580.984s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7736.785s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7737.759s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7747.162s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7748.771s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7755.801s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7759.58s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7761.945s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7764.896s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Failed] =>components/templates/login-comp.html
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7778.415s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/login-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 7780.024s
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9710.823 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9712.777 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9714.588 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9716.011 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9720.895 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9721.959 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9723.841 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9744.927 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9806.142 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 9807.766 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16307.567 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16313.352 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16317.374 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16321.083 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16325.144 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16438.865 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16440.062 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 16518.381 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.004 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16400.396s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16401.195s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16407.14s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16412.016s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16421.865s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16429.144s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16432.691s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16434.001s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16509.234s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.004 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16511.255s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16513.642s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16515.769s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16525.2s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16536.469s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16537.611s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16542.55s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16547.846s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16553.143s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16575.601s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16577.094s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16581.246s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16582.391s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16704.361s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 16708.228s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18633.542 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18640.578 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18645.938 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18656.251 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18658.999 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18661.404 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18680.297 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18685.18 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18686.351 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18688.981 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18694.637 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18703.162 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18737.889 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18749.02 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18828.724 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18829.889 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18835.543 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 18841.138 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18960.419 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18966.967 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18968.464 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18970.444 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18982.971 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18990.284 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 18993.773 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 19005.114 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/products.js
+
+[Time] => 19006.275 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19023.042 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19540.328 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19552.441 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19555.481 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19562.84 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19566.621 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19573.771 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19576.403 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19581.066 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19626.523 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19628.903 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19649.499 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19656.002 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19659.493 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19671.976 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 19675.013 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 17955.367s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 17959.807s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 17961.396s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 17977.919s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 17987.599s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.008 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 18037.058s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 18038.083s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 18042.395s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 18045.52s
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 18047.777s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20327.994 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20334.564 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20347.723 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20351.745 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20360.557 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20362.088 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20639.461 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20642.005 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20645.172 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20648.437 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20653.388 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20654.779 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20656.425 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20659.544 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20660.944 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20663.206 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20664.719 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20666.3 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20668.602 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20670.987 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20674.932 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20677.932 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 20679.891 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/user-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.006 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 19468.592s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 19607.776s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 19609.27s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.004 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 19622.776s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 19630.612s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/welcome-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/welcome-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/welcome-comp.html
+[Time] => find unclosedTags => 0.005 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 20191.228s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/user-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 20201.13s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/user-comp.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 20202.097s
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/user-comp.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25822.708 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25823.978 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25828.469 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25963.557 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25965.845 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25967.896 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25974.21 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25991.727 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 25998.331 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Error in components/javascript/signup-comp.js
+[Delete] components/javascript/signup-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.004 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 24543.108s
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 24554.531s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Error in components/javascript/signup-comp.js
+[Delete] components/javascript/signup-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 25698.034s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Error in components/javascript/signup-comp.js
+[Delete] components/javascript/signup-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 26154.644s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 27699.787s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 27742.661s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 27968.828s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31312.318 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31326.153 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31331.96 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31333.517 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31335.591 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31339.106 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31340.736 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31346.186 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31347.608 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31350.971 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31353.432 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31359.843 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31368.98 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31555.735 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31558.626 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 31565.438 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.005 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 30367.356s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 31155.814s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 31165.549s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Error in components/javascript/login-comp.js
+[Delete] components/javascript/login-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/login-comp.html
+[Time] => find unclosedTags => 0 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 31175.516s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/login-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.006 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 34170.778s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36578.787 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36582.077 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36583.575 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36586.447 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36594.547 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36597.074 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36602.193 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36634.33 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36641.067 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36644.652 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 36650.614 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 87392.297 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 87397.587 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 87407.924 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 85572.825s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88090.639 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88135.115 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88138.818 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88141.39 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88143.163 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88145.429 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 88147.548 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+[Watch] Error in components/javascript/user-comp.js
+[Delete] components/javascript/user-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.005 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 86277.751s
+[Watch] => file changed components/javascript/user-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/user-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 86282.985s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 89928.962 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90131.724 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90142.667 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+[Watch] Error in components/javascript/signup-comp.js
+[Delete] components/javascript/signup-comp.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.004 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 88329.825s
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 88332.429s
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 88344.312s
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90415.162 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90419.065 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90424.629 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90428.643 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90431.544 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90432.671 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90816.368 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90818.897 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90863.775 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90876.917 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90879.373 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90884.7 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+Building models ..............
+
+Consolidated file created in the dist/data-store/models/user.js
+
+[Time] => 90887.229 s
+================= _super call of model completed =======================
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 89018.366s
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 89019.643s
+[Watch] => file changed components/javascript/signup-comp.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/signup-comp.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Initiating the template processor
+request captured /
+request captured /worker.js
+request captured /sharedWorker.js
+request captured /get
+request captured /post
+Post method request get caught with url/post
+chunk printed
+Callback function called
+Resolving the template processor
+Generating dist components...
+
+========== Components compiled ==========
+request on end called
+Time taken for end call back be 89036.421s
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+

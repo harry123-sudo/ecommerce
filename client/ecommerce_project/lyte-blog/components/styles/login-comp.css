@@ -1,0 +1,26 @@
+.auth-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+  .login-form, .signup-form {
+    width: 45%;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  label {
+    margin-bottom: 5px;
+  }
+
+  lyte-input {
+    margin-bottom: 15px;
+  }
+
+  lyte-button {
+    align-self: flex-start;
+  }

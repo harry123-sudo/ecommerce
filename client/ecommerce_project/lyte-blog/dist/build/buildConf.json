@@ -1,0 +1,185 @@
+{
+ "type": "development",
+ "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog": 25929,
+ "templates": [
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/templates/login-comp.html",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/templates/prd-comp.html",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/templates/products-comp.html",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/templates/signup-comp.html",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/templates/user-comp.html",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/templates/welcome-comp.html"
+ ],
+ "styles": [
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/styles/login-comp.css",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/styles/prd-comp.css",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/styles/products-comp.css",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/styles/signup-comp.css",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/styles/user-comp.css",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/components/styles/welcome-comp.css"
+ ],
+ "adapters": [
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/adapters/products.js",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/adapters/user.js"
+ ],
+ "serializers": [
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/serializers/products.js",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/serializers/user.js"
+ ],
+ "CSLD": {
+  "$store": {
+   "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js": [
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/models/user.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/adapters/user.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/serializers/user.js"
+   ],
+   "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js": [
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/models/products.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/adapters/products.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/data-store/serializers/products.js"
+   ]
+  },
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog": {
+   "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js": [
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/router.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/routes/index.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/routes/newuser.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/routes/user.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/routes/users.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/login-comp.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/prd-comp.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/products-comp.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/signup-comp.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/user-comp.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/welcome-comp.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js",
+    "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js"
+   ]
+  },
+  "autoBundlingCss": {
+   "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.css": []
+  }
+ },
+ "RCSLD": {
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/data-store/models/user.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js",
+    "_path": "$store"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/data-store/adapters/user.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js",
+    "_path": "$store"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/data-store/serializers/user.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js",
+    "_path": "$store"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/router.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/routes/index.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/routes/newuser.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/routes/user.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/routes/users.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/login-comp.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/prd-comp.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/products-comp.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/signup-comp.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/user-comp.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/components/javascript/welcome-comp.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js",
+    "_path": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/data-store/models/products.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js",
+    "_path": "$store"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/data-store/adapters/products.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js",
+    "_path": "$store"
+   }
+  ],
+  "/users/hari-14146/documents/crm-dx/lyte_project/ecommerce_project/lyte-blog/data-store/serializers/products.js": [
+   {
+    "_key": "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js",
+    "_path": "$store"
+   }
+  ]
+ },
+ "allConsolidateKeys": [
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/products.js",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/data-store/models/user.js",
+  "/Users/hari-14146/Documents/CRM-DX/lyte_project/ecommerce_project/lyte-blog/dist/app.js"
+ ],
+ "lessImportMapping": {},
+ "lessReverseImportMapping": {}
+}

@@ -1,0 +1,101 @@
+/* Default theme imported */
+/* Loading theme in configuration */
+/* Themes of components */
+/* Loading custom themes */
+/* import theme overrides */
+/* import custom css */
+.lyteEditorSection {
+  margin-bottom: 20px;
+}
+.lyteEditorHeading {
+  color: #333;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.lyteEditorPaneButtonSection {
+  display: flex;
+  margin-bottom: 10px;
+}
+.lyteEditorPaneFontContent {
+  display: flex;
+  margin-right: 10px;
+}
+.lyteEditorTextFormatIcons {
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-right: 0;
+  width: 35px;
+  box-sizing: border-box;
+  text-align: center;
+  cursor: pointer;
+}
+.lyteEditorTextBgButton,
+.lyteEditorParaJustifyAlignButton,
+.lyteEditorSubScript,
+.lyteEditorUnderLineIcon {
+  border-right: 1px solid #ddd;
+}
+.lyteEditorTextFormatIcons:hover {
+  border-color: #5ba1e5;
+}
+.lyteEditorTextFormatIcons:hover + .lyteEditorTextFormatIcons {
+  border-left-color: #5ba1e5;
+}
+.lyteEditorBoldIcon {
+  font-weight: bold;
+}
+.lyteEditorItalicIcon {
+  font-style: italic;
+}
+.lyteEditorUnderLineIcon {
+  text-decoration: underline;
+}
+.lyteEditorSuperScript,
+.lyteEditorSubScript {
+  width: 45px;
+}
+.lyteEditorSuperScriptNum {
+  font-size: 10px;
+  vertical-align: super;
+}
+.lyteEditorSubScriptNum {
+  font-size: 10px;
+  vertical-align: sub;
+}
+.lyteEditorTextFormatSelected {
+  border-color: #5ba1e5;
+  background: #e6f3fd;
+}
+.lyteEditorTextFormatSelected + .lyteEditorTextFormatIcons {
+  border-left-color: #5ba1e5;
+}
+.lyteEditorTextColorButton {
+  text-decoration: underline 2px;
+  text-decoration-color: #f00;
+}
+.lyteEditorTextBgButton {
+  position: relative;
+  color: #fff;
+}
+.lyteEditorTextBgButton::after {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background: #6f7d8c;
+  left: calc(50% - 8px);
+  top: calc(50% - 7px);
+  z-index: -1;
+  transform: skew(25deg);
+}
+.lyteEditorTextBgBottomLine {
+  position: absolute;
+  bottom: 3px;
+  height: 2px;
+  width: 14px;
+  left: calc(50% - 5px);
+  display: block;
+  z-index: 1;
+  background: #f0f;
+}

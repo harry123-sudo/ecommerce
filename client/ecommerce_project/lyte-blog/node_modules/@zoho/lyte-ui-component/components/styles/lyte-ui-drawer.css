@@ -1,0 +1,74 @@
+.active{
+    background-color:  rgb(22, 172, 72);
+  }
+  .userclass{
+    background-color:rgb(238, 44, 19);
+  }
+  .lyteDrawerItemDisabled {
+    pointer-events: none;
+    opacity: 0.3;
+    background-color:rgb(214, 214, 214);
+  }
+  .lyteDrawerPanel{
+    display:flex;
+    flex-direction:column;
+    overflow-y: auto;
+    width: 0px;
+    margin-left:-20px;
+  }
+  .lyteDrawerContent{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    position: relative;
+  }
+  .inlineDrawerBody{
+    display:flex;
+    flex-direction:row;
+    height: auto;
+    width:auto;
+  }
+  lyte-drawer-freeze {
+    z-index: 5;
+    background: #000;
+    opacity: 0.4;
+    transition: opacity ease 0.15s;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+  }
+  lyte-drawer-body{
+    display: block;
+    overflow: auto;
+    height: 100vh;
+  }
+  lyte-drawer-label{
+    display: block;
+    height: auto;
+    padding: 10px 10px 3px;
+    font-weight: 400;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'LatoBold', 'Open Sans', sans-serif;
+  }
+  lyte-drawer-divider{
+    display: block;
+    flex: 1 1 0px;
+    max-width: 100%;
+    height: 0px;
+    max-height: 0px;
+    border: solid;
+    border-width: thin 0 0 0;
+    transition: inherit;
+  }
+  lyte-drawer-item{
+    position: relative;
+    cursor: pointer;
+    display: block;
+    text-align: left;
+    color: #111;
+    padding: 7px 15px 7px 25px;
+    font-size: 15px;
+  }
